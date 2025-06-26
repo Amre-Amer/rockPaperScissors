@@ -3,6 +3,10 @@ Unity game for quest 2 or better, using Unity 6.1, Meta XR, Barracuda, PyTorch, 
 Rock Paper Scissors
 with 2 neurons (using 4 for flavor)
 
+APK Download Link:
+
+https://drive.google.com/file/d/1PBRNU047n3SROzJzN5hCxmRFWwQYn9Qk/view?usp=drive_link
+
 Sideload to your Quest 2 or above
 Links with directions for Sideloading APK:
 
